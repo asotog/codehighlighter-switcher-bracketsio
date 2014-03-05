@@ -1,0 +1,18 @@
+[
+    {
+        "label": "HTML",
+        "mode": "htmlmixed"
+    },
+    {
+        "label": "PHP",
+        "mode": "php"
+    },
+    {
+        "label": "Javascript",
+        "mode": "javascript"
+    },
+    {
+        "label": "XML",
+        "mode": "xml"
+    }
+]
