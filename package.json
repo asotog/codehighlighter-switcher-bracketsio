@@ -3,7 +3,7 @@
     "title": "Code Highlighter Switcher",
     "description": "An extension to change/switch the different code highlighting that brackets provides, useful for some cases where is required to highlight code with some specific highlighting format.",
     "homepage": "https://github.com/asotog/codehighlighter-switcher-bracketsio",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Alejandro Soto <asotog88@yahoo.es>",
     "license": "MIT",
     "engines": {
